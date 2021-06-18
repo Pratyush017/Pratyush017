@@ -3,7 +3,7 @@
 - 🔭 Science student (PCM)
 - 🌱 I'm currently learning JavaScript , JSX , HTML and Python
 - 💬 Ask me about anything related to coding.
-- 📫 How to reach me: [Mail](pratyushraj0176@gmail.com)
+- 📫 How to reach me: [Mail](mailto:pratyushraj0176@gmail.com)
 - 😄 Class 11th (2021-22) 
 - ⚡ Also knows advance Video editing (phone editor)
 - #Otaku
