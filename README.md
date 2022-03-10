@@ -1,4 +1,4 @@
-### Grettings!!
+<center><h1 align="center">Sup, I'm Pratyush Raj</h1>
 
 - 🔭 Science student (PCM)
 - 🌱 I'm currently learning JavaScript , JSX , HTML and Python
