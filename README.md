@@ -1,10 +1,10 @@
 <center><h1 align="center">Sup, I'm Pratyush Raj</h1>
 
-- 🔭 Science student (JEE Aspirant)
+- 🔭 Science student 
 - 🌱 I'm currently learning JavaScript , JSX , HTML and Python
 - 💬 Ask me about anything related to coding.
 - 📫 How to reach me: [Mail](mailto:pratyushraj0176@gmail.com) 
-- 😄 Class 12th (2022-23) 
+- 😄 
 - ⚡ Also knows advance Video editing (phone editor)
 - #Otaku 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=pratyush017&margin-w=15&column=7&row=8" />
