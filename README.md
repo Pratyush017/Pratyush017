@@ -36,6 +36,17 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
+---
+
+### 🎮 Projects
+
+#### 🟣 Plinko-C31  
+A fun, browser-based Plinko game built with JavaScript and Canvas.  
+🔗 [Live Demo](https://pratyush017.github.io/Plinko-C31/) | [GitHub Repo](https://github.com/Pratyush017/Plinko-C31)
+
+
+
+
 
 ---
 
