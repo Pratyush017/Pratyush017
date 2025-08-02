@@ -1,69 +1,72 @@
-<h1 align="center">Hi 👋, I'm Pratyush Raj</h1>
-<h3 align="center">🚀 IT Student @ VIT Vellore | Certified App & Game Developer | DSA & AI Enthusiast</h3>
+<h1 align="center">Hey there! 👋 I'm Pratyush Raj</h1>
+<h3 align="center">🚀 IT Student @ VIT Vellore | 👨‍💻 DSA Learner | 📱 Certified App & Game Dev</h3>
 
 ---
 
-### 🧠 About Me
+### 🧑‍💼 About Me
 
-- 🎓 IT student at **VIT Vellore**
-- 📘 Currently learning **4.0 Technologies** with **NxtWave CCBP**
-- 📱 Certified **App & Game Developer** using **JavaScript + React Native**
-- 💻 Practicing **Data Structures & Algorithms** in **C++**
-- 🤖 Fluent in 10+ AI Tools (ChatGPT, DeepSeek, Gemini, etc.)
-- 🌟 Strong in **C**, **Java**, and **Python** as well
-- 🚀 Passionate about **automation**, **AI integration**, and **real-world problem solving**
-
----
-
-### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- 🎓 Pursuing **IT @ VIT Vellore**
+- 🛠️ Learning **4.0 Technologies** via **NxtWave**
+- 💡 Passionate about **DSA**, **problem solving**, and **building scalable apps**
+- 📱 Built apps & games using **JavaScript** + **React Native**
+- 🤖 Fluent with **10+ AI tools**
+- 👨‍💻 Programming in **C**, **Java**, **JavaScript**
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ Tech Stack
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pratyush017&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush017&layout=compact&theme=radical" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
 
-### 🔥 Streak & Contributions
+### 🤖 AI Tools I Use
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyush017&theme=radical" alt="streak"/>
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pratyush017&theme=dracula" alt="graph"/>
+| Tool              | Purpose                |
+|-------------------|-------------------------|
+| ChatGPT           | Coding & reasoning      |
+| Gemini            | Exploration & assistance|
+| Qwen AI           | Model comparison        |
+| Claude            | Writing & docs          |
+| GitHub Copilot    | Code suggestion         |
+| Gamma             | Slide generation        |
+| Clipchamp         | Voice overs             |
+| UserPersona.Dev   | Persona building        |
+| Namelix           | Brand name generation   |
+| Sologo AI         | Logo design             |
+| WegicA            | AI-based UI/UX tools    |
+
+---
+
+### 🌟 Featured Project
+
+#### 🔆 Solaris — AI-Powered Pitch Deck & Video
+
+> A fully AI-generated startup concept brought to life — from idea to pitch video.
+
+- 🧠 Concept, brand, slides, voice-over — **100% AI-powered**
+- 🛠️ Tools used: ChatGPT, Gemini, Claude, Gamma, Clipchamp, Namelix, Sologo AI, WegicA
+- 🎯 Goal: Showcase end-to-end AI prototyping in action
+
+📎 [View Project Document →](https://docs.google.com/document/d/1wIqiiW2M5uqNAyIyVc2QDemoC0TYAnyECFlh0maRd00/edit?usp=drive_link)
+
+---
+
+### 📫 Reach Out
+
+<p align="left">
+  <a href="mailto:pratyushraj0176@gmail.com"><img src="https://img.shields.io/badge/Email-pratyushraj0176@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pratyushraj0176"><img src="https://img.shields.io/badge/LinkedIn-PratyushRaj0176-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Pratyush017"><img src="https://img.shields.io/badge/GitHub-Pratyush017-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 Projects to Explore
-
-- 📱 **React Native Games & Apps** – Real-time apps built during certification
-- 🤖 **AI Prompt CLI Tool** – Automates AI queries across multiple platforms
-- 💡 **Street Light Automation** – Hardware sensor-based IoT project
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/pratyushraj0176)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourleetcode)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pratyushraj0176@gmail.com)
-
----
-
 <p align="center">
-  <i>“Learn relentlessly. Code boldly. Iterate constantly.”</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Learning+every+day+⚡;Building+impactful+projects+🚀;Consistency+%3E+Intensity+🔥" alt="Typing SVG" />
 </p>
