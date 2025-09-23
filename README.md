@@ -80,8 +80,8 @@ A fun, browser-based Plinko game built with JavaScript and Canvas.
 - 🛠️ Tools used: ChatGPT, Gemini, Claude, Gamma, Clipchamp, Namelix, Sologo AI, WegicA
 - 🎯 Goal: Showcase end-to-end AI prototyping in action
 
-📎 [View Project Document →](https://docs.google.com/document/d/1wIqiiW2M5uqNAyIyVc2QDemoC0TYAnyECFlh0maRd00/edit?usp=drive_link)
-📎 [View Project Pitch →](https://drive.google.com/file/d/1UgQLrnvcGFmiUF9dHHfUuRbpOHgua3gI/view?usp=drive_link)
+📎 [View Project Document →](https://docs.google.com/document/d/1wIqiiW2M5uqNAyIyVc2QDemoC0TYAnyECFlh0maRd00/edit?usp=sharing)
+📎 [View Project Pitch →](https://drive.google.com/file/d/1UgQLrnvcGFmiUF9dHHfUuRbpOHgua3gI/view?usp=sharing)
 
 ---
 
