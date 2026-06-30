@@ -104,7 +104,7 @@ Real-time civic issue reporting platform with AI-assisted photo verification, ge
 
 </td>
 <td width="50%" valign="top">
-<img src="assets/civicpulse-dashboard.png" alt="CivicPulse / CivicRadar dashboard with live map and report feed" width="100%"/>
+<img src="civicpulse-dashboard.png" alt="CivicPulse / CivicRadar dashboard with live map and report feed" width="100%"/>
 </td>
 </tr>
 
@@ -121,7 +121,7 @@ A free, AI-driven reading assistant for students with dyslexia — uploads a PDF
 
 </td>
 <td width="50%" valign="top">
-<img src="assets/dyslexia-lens-landing.png" alt="Dyslexia Lens landing page" width="100%"/>
+<img src="dyslexia-lens-landing.png" alt="Dyslexia Lens landing page" width="100%"/>
 </td>
 </tr>
 
@@ -138,7 +138,7 @@ A full-stack education platform implementing a "Skill-Awareness Ecosystem Archit
 
 </td>
 <td width="50%" valign="top">
-<img src="assets/marketready-landing.png" alt="MarketReady (SAEA) landing page" width="100%"/>
+<img src="marketready-landing.png" alt="MarketReady (SAEA) landing page" width="100%"/>
 </td>
 </tr>
 </table>
