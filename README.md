@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF700,100:00F7FF&height=200&section=header&text=Pratyush%20Raj&fontSize=58&fontColor=0a0f1a&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Builder%20%7C%20Hackathon%20Winner%20%7C%20AI-Native%20Developer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF700,100:00F7FF&height=200&section=header&text=Pratyush%20Raj&fontSize=58&fontColor=0a0f1a&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Builder%20%7C%20AI-Native%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <h3 align="center">🚀 IT Student (3rd Year) @ VIT Vellore | 👨‍💻 DSA Learner | 📱 Certified App & Game Dev | 🤖 AI-Powered Builder</h3>
