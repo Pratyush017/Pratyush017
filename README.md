@@ -28,6 +28,7 @@
 - 🏆 Hackathon builder — 1st Prize winner, plus a Google Vibe2Ship Hackathon entry
 - 🧠 Fluent with **prompting AI tools** — I can design, build, and ship full-stack products end-to-end using AI-assisted workflows
 - ⚡ Comfortable taking a project from idea → architecture → deployment, smoothly, with AI as a force multiplier rather than a crutch
+- 🎨 Comfortable in **Figma** for UI/UX design — used it to design the accessible reading interface for Dyslexia Lens
 - 👨‍💻 Skilled in: **C**, **Java**, **JavaScript**, **TypeScript**, **Python**, **MySQL**, **PostgreSQL**, **HTML**, **CSS**, **JSX**, **Expo**, **Firebase**, **Supabase**
 
 <p align="center">
@@ -58,6 +59,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -116,6 +118,7 @@ A free, AI-driven reading assistant for students with dyslexia — uploads a PDF
 
 - 🧠 Google Gemini 2.5 Flash · React + Vite · Node.js/Express · PostgreSQL + Prisma · Firebase Auth
 - 🎯 Phonetic chunking, text-to-speech, XP-based progress tracking
+- 🎨 UI/UX designed in **Figma** before implementation
 
 🔗 [GitHub Repo](https://github.com/Pratyush017/Dyslexia-Lens)
 
